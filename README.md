@@ -4,4 +4,4 @@ Achitecture used: 1. Tiny YoloV3
                   2. YoloV3
                   
 Dataset Used :
-              3.SVHN dataset
+              SVHN dataset
