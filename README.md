@@ -1,2 +1,7 @@
-# YOLO-Training-on-SVHN-dataset
-SVHN (Street View House Number ) dataset composed of house number which can be trained for OCR training.This repository gives a quick start for model training.
+# Google Street View House number 
+Google Street View dataset commonly called as SVHN dataset comprises of images of house number croppd from google street view.
+Achitecture used: 1. Tiny YoloV3
+                  2. YoloV3
+                  
+Dataset Used :
+              3.SVHN dataset
